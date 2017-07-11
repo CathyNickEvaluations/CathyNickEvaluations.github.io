@@ -2,6 +2,13 @@ body {
   font-size:16px;
 }
 
+.navbar-brand {
+ color:black 
+}
+
+.navbar-brand:hover {
+ color:black 
+}
 
 /*
 .footeremaillink {
