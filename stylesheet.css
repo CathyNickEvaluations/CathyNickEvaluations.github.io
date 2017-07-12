@@ -2,11 +2,11 @@ body {
   font-size:16px;
 }
 
-.navbar-brand {
+#headername {
  color:black 
 }
 
-.navbar-brand:hover {
+#headername:hover {
  color:black 
 }
 
