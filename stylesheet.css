@@ -66,11 +66,11 @@ color:red;
 
 @media(min-width:480px) and (max-width:1100px){
   .parallax-effect {
-  background: #eaebed;
-  background: -webkit-radial-gradient(white, #eaebed); 
-  background: -o-radial-gradient(white, #eaebed);
-  background: -moz-radial-gradient(white, #eaebed); 
-  background: radial-gradient(white, #eaebed); 
+  background: background: #c1c1d7;
+  background: -webkit-radial-gradient(white, #c1c1d7);
+  background: -o-radial-gradient(white, #c1c1d7);
+  background: -moz-radial-gradient(white, #c1c1d7);
+  background: radial-gradient(white, #c1c1d7);
 }
   
   .firstline {
