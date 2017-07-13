@@ -10,8 +10,11 @@ body {
 
 .firstline {
     padding-top:100px;
-  padding-bottom:100px;
     }
+
+.firstsubtitle {
+   padding-bottom:100px; 
+}
 
 #headername:hover {
  color:black 
